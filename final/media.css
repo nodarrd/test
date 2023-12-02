@@ -1,0 +1,29 @@
+@media all and (min-width:1440px) {
+    .head-wrapper {
+      height: 123px;
+      padding: 40px;
+    }
+    nav {
+      display: block;
+    }
+
+    .nav-plus {
+        display: flex;
+
+    }
+
+    .nav-plus li {
+        font-size: 15px;
+        margin: 0px 30px;
+    }
+
+    .earthlogo {
+      display: none
+    }
+
+    .burgerlogo { 
+      display: none;
+    }
+  }
+
+  

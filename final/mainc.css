@@ -1,0 +1,50 @@
+.head-wrapper {
+    height: 70px;
+    background-color: #74C69D;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-plus {
+    display: flex;
+}
+
+nav { 
+    display: none;
+}
+
+.earthlogo {
+    height: 50px;
+    width: 50px;
+}
+.burger {
+    height: 50px;
+    width: 50px;
+}
+.first {
+    color: green;
+}
+.container {
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-color:white;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1:hover {
+    background-color: red;
+}
+
+.header1 {
+  text-align: center;
+}
+
+.header2 {
+    text-align: center;
+}
+footer {
+    background-color:  #74C69D
+}
